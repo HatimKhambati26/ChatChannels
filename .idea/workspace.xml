@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="381b42a8-10d2-4183-a771-9efdd35fd158" name="Default Changelist" comment="" />
+    <list default="true" id="381b42a8-10d2-4183-a771-9efdd35fd158" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatChannels/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatChannels/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/consumers.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/consumers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/tests.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VEsw23V3rcG2PGZ3C9Fw7NKrEb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +37,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chatty" />
   </component>
@@ -84,7 +95,7 @@
       <updated>1576829823514</updated>
       <workItem from="1576829825426" duration="12092000" />
       <workItem from="1577088091140" duration="535000" />
-      <workItem from="1577088658866" duration="3723000" />
+      <workItem from="1577088658866" duration="10502000" />
     </task>
     <servers />
   </component>
@@ -92,14 +103,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="75" y="215" width="800" height="684" key="#Inspections" timestamp="1577097158959">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="75" y="215" width="800" height="684" key="#Inspections/0.27.1920.1053@0.27.1920.1053" timestamp="1577097158959" />
     <state x="163" y="281" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577088251350">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="163" y="281" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1577088251350" />
+    <state x="525" y="148" width="860" height="817" key="CommitChangelistDialog2" timestamp="1577093127846">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="525" y="148" width="860" height="817" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1577093127846" />
     <state x="263" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577088970249">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="263" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1577088970249" />
+    <state x="75" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1577175753894">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="75" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1577175753894" />
     <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1577088660187">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
